@@ -1,7 +1,7 @@
-## Agentic Legal RAG Challenge 2026
+# Agentic Legal RAG Challenge 2026
 Build agentic Retrieval-Augmented Generation (RAG) systems for legal workflows and compete on a transparent evaluation track.
 
-**Quick links**
+## Quick links
 Register: https://agentic-challenge.ai/
 
 ## Key dates
