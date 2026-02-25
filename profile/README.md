@@ -2,7 +2,7 @@
 Build agentic Retrieval-Augmented Generation (RAG) systems for legal workflows and compete on a transparent evaluation track.
 
 ## Quick links
-Register: https://agentic-challenge.ai/
+Register: https://agentic-challenge.ai
 
 ## Key dates
 - Registration: now open
