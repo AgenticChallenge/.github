@@ -1,4 +1,4 @@
-# Agentic Legal RAG Challenge 2026
+## Agentic Legal RAG Challenge 2026
 International competition to build production‑grade Legal RAG systems.
 
 **Quick links**
