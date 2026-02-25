@@ -1,10 +1,8 @@
 ## Agentic Legal RAG Challenge 2026
-International competition to build production‑grade Legal RAG systems.
+Build agentic Retrieval-Augmented Generation (RAG) systems for legal workflows and compete on a transparent evaluation track.
 
 **Quick links**
-- Register: https://agentic-challenge.ai/
-- Timeline: https://agentic-challenge.ai/ (Timeline)
-- FAQ: https://agentic-challenge.ai/ (Faq)
+Register: https://agentic-challenge.ai/
 
 ## Key dates
 - Registration: now open
@@ -12,9 +10,32 @@ International competition to build production‑grade Legal RAG systems.
 - Final evaluation window ends : Mar 25, 2026
 - Winners announced: Apr 6–9, 2026 (Dubai AI Week / Machines Can See Summit)
 
-## Why it matters
+## TL;DR
 - Prize pool: $32K
-- Fully online
-- Faithfulness/grounding + latency (TTFT)
+- Team size: up to 3 members
+- Online participation
+- Evaluation: grounding/faithfulness + latency (TTFT)
+- Fully funded trip to Dubai for the top 3 teams, with awards during Dubai AI Week / Machines Can See Summit.
 
-**More details →** https://github.com/AgenticChallenge/agentic-legal-rag-challenge
+## Key dates
+- Registration: now open
+- Warm‑up: March 11–18, 2026
+- Final evaluation window ends: March 25, 2026
+- Winners announced: April 6–9, 2026 Dubai AI Week, Machines Can See 2026 Summit
+
+## How to participate
+- Register on the website
+- Join Discord
+- Read timeline + FAQ
+- Start building
+  
+## Who is this for
+- Engineers and researchers working on RAG, retrieval, tool-using agents, evaluation, and LLM infrastructure.
+
+## Getting started
+- Register on the webside
+- Join Discord
+- Form a team (up to 3 members)
+- Start building
+
+**Register now https://agentic-challenge.ai**
