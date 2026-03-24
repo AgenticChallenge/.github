@@ -15,7 +15,6 @@ Register: https://agentic-challenge.ai
 - Team size: up to 3 members
 - Online participation
 - Evaluation: grounding/faithfulness + latency (TTFT)
-- Fully funded trip to Dubai for the top 3 teams, with awards during Dubai AI Week / Machines Can See Summit.
 
 ## Key dates
 - Registration: now open
